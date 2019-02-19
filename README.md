@@ -14,5 +14,5 @@ For running these notebooks you need to define the following folders in the same
   - historical_transactions.csv
   - merchants.csv
 
-*Note:* Download the datasets *.csv* from the Kaggle competition page in save them in folder *Data*.
+*Note:* Download the datasets *.csv* from the Kaggle competition page and save them in folder *Data*.
 
